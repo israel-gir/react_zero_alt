@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ddf3f760.chunk.css",
-    "main.js": "/static/js/main.a3c10f7d.chunk.js",
-    "main.js.map": "/static/js/main.a3c10f7d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5c6948f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5c6948f4.js.map",
-    "static/js/2.f21ad8e3.chunk.js": "/static/js/2.f21ad8e3.chunk.js",
-    "static/js/2.f21ad8e3.chunk.js.map": "/static/js/2.f21ad8e3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fa31f91bb1839cdad8937faa89e1edbc.js": "/precache-manifest.fa31f91bb1839cdad8937faa89e1edbc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ddf3f760.chunk.css.map": "/static/css/main.ddf3f760.chunk.css.map",
-    "static/js/2.f21ad8e3.chunk.js.LICENSE.txt": "/static/js/2.f21ad8e3.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/aeonik-medium-webfont.dca50ed3.woff"
+    "main.css": "/react_zero_alt/static/css/main.527d0d25.chunk.css",
+    "main.js": "/react_zero_alt/static/js/main.a3c10f7d.chunk.js",
+    "main.js.map": "/react_zero_alt/static/js/main.a3c10f7d.chunk.js.map",
+    "runtime-main.js": "/react_zero_alt/static/js/runtime-main.ceb69a27.js",
+    "runtime-main.js.map": "/react_zero_alt/static/js/runtime-main.ceb69a27.js.map",
+    "static/js/2.1c492f13.chunk.js": "/react_zero_alt/static/js/2.1c492f13.chunk.js",
+    "static/js/2.1c492f13.chunk.js.map": "/react_zero_alt/static/js/2.1c492f13.chunk.js.map",
+    "index.html": "/react_zero_alt/index.html",
+    "precache-manifest.b42eae1e27200bab54fb5070d04cce8c.js": "/react_zero_alt/precache-manifest.b42eae1e27200bab54fb5070d04cce8c.js",
+    "service-worker.js": "/react_zero_alt/service-worker.js",
+    "static/css/main.527d0d25.chunk.css.map": "/react_zero_alt/static/css/main.527d0d25.chunk.css.map",
+    "static/js/2.1c492f13.chunk.js.LICENSE.txt": "/react_zero_alt/static/js/2.1c492f13.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react_zero_alt/static/media/aeonik-medium-webfont.dca50ed3.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c6948f4.js",
-    "static/js/2.f21ad8e3.chunk.js",
-    "static/css/main.ddf3f760.chunk.css",
+    "static/js/runtime-main.ceb69a27.js",
+    "static/js/2.1c492f13.chunk.js",
+    "static/css/main.527d0d25.chunk.css",
     "static/js/main.a3c10f7d.chunk.js"
   ]
 }
