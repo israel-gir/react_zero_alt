@@ -1,0 +1,128 @@
+.dashboard{
+    background: #b7d2e3;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.dashboardTitle{
+    color: rgba(0, 0, 0, 1.0);
+    font-family: 'aeonikmedium', monospace;
+    font-size: 50px;
+    position: absolute;
+    top: 35%;
+    left: 13.5%;
+}
+
+.centeredTitle{
+    color: rgba(0, 0, 0, 1.0);
+    font-family: 'aeonikmedium', monospace;
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    left: 37%;
+}
+
+
+.buttonCentered {
+    color: rgba(0, 0, 0, 1.0);
+    position: absolute;
+    top: 70%;
+    left: 35%;
+}
+
+.signUp-card-fadeInLayout {
+    max-width: 700px;
+    border-radius: 12px !important;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 700px;
+    height: 400px;
+}
+
+.signUp-card {
+    border-radius: 6px !important;
+    height: 400px;
+}
+
+.top_title_text_dashboard {
+    color: rgba(255, 255, 255, 1.0);
+    /*word-wrap: normal;*/
+    font-family: 'aeonikmedium', monospace;
+    font-size: 1.8vw;
+    width: 32%;
+    position: absolute;
+    top: 20%;
+    left: 12.5%;
+}
+
+.topBar{
+    background: #000000;
+    position: absolute;
+    height: 40px;
+    width: 100%;
+
+}
+
+.topBarColor{
+    background: #000000;
+    position: absolute;
+    height: 40px;
+    width: 100%;
+}
+
+
+.userGuy{
+    position: absolute;
+    /*height: 20px;*/
+    left: 90%;
+
+}
+
+.animatedBox {
+    animation: fadeIn ease 2s;
+    -webkit-animation: fadeIn ease 2s;
+    -moz-animation: fadeIn ease 2s;
+    -o-animation: fadeIn ease 2s;
+}
+
+
+@keyframes fadeIn {
+    0% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+

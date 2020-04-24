@@ -2,15 +2,40 @@
   "name": "react_zero_alt",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://israel-gir.github.io/react_zero_alt",
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
+    "@apollo/react-hooks": "^3.1.4",
+    "@material-ui/core": "^4.9.11",
+    "@material-ui/lab": "^4.0.0-alpha.50",
+    "apollo-boost": "^0.4.7",
+    "apollo-cache-inmemory": "^1.6.5",
+    "apollo-client": "^2.6.8",
+    "apollo-link": "^1.2.14",
+    "apollo-link-http": "^1.5.17",
+    "aws-appsync-auth-link": "^2.0.2",
+    "aws-appsync-subscription-link": "^2.1.0",
+    "axios": "^0.19.2",
+    "graphql": "^15.0.0",
+    "graphql-tag": "^2.10.3",
+    "install": "^0.13.0",
+    "lodash": "^4.17.15",
+    "npm": "^6.14.4",
     "react": "^16.13.1",
+    "react-apollo": "^3.1.5",
+    "react-cookie": "^4.0.3",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-fade-in": "^0.1.8",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.1.0",
+    "typescript": "^3.8.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -30,5 +55,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
