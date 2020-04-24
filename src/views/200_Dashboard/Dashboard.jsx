@@ -46,7 +46,7 @@ const Dashboard = () => {
 
 
   const backScreen = () => {
-    history.push('/');
+    history.push('/react_zero_alt');
     removeCookie('sid', {path: '/'});
   };
 

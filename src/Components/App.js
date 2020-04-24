@@ -45,9 +45,9 @@ const App = () => {
 
     const dashboard = () =>{
         if(cookie.sid)
-            history.push('/dashboard');
+            history.push('/react_zero_alt/dashboard');
         else
-            history.push('/login');
+            history.push('/react_zero_alt/login');
     };
 
     return(

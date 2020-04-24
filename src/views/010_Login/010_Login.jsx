@@ -30,14 +30,14 @@ const Login_010 = () => {
     console.log(sid);
 
     if(cookie.sid)
-        history.push('/dashboard');
+        history.push('/react_zero_alt/dashboard');
 
     if( dataSubscription ) {
         console.log('data', dataSubscription);
         setCookie('sid', dataSubscription.notifications.sid, {path:'/'});
         setSid('');
         setTimeout(() => {
-            history.push('/dashboard');
+            history.push('/react_zero_alt/dashboard');
         }, 2500);
     }
 

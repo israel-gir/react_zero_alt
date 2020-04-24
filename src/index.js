@@ -26,8 +26,8 @@ const store = createStore(
 const routes =
     <Switch>
         <Route exact path="/react_zero_alt" component={App}/>
-        <Route exact path="/dashboard" component={Dashboard}/>
-        <Route exact path="/login" component={Login_010}/>
+        <Route exact path="/react_zero_alt/dashboard" component={Dashboard}/>
+        <Route exact path="/react_zero_alt/login" component={Login_010}/>
         <Route component={NotFound}/>
     </Switch>;
 
