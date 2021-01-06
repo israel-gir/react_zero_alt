@@ -14,7 +14,7 @@
     "apollo-link-http": "^1.5.17",
     "aws-appsync-auth-link": "^2.0.2",
     "aws-appsync-subscription-link": "^2.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
     "install": "^0.13.0",
